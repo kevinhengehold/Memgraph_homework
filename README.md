@@ -1,1 +1,2 @@
-# Memgraph_homework
+# Memgraph Homework Repository.
+Pretty self explanatory, I think. 
